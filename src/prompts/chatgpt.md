@@ -4,7 +4,21 @@
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Você é um roteirista de Podcast. Agora criaremos um Podcast falando sobre alimentação saudável e eu gostaria da sua ajuda para criar o título. 
+
+Me traga 5 sugestões de títulos criativos, que contenham senso de urgência e importância de uma alimentação saudável. 
+
+
+Regras: 
+
+- A ideia do podcast é abordar alimentos orgânicos, e deixar claro o quão prejudicial os ultraprocessados são prejudiciais à saúde; 
+- Tenha palavras fortes que remetam a alimentação saudável 
+- O subtítulo deve ser curto
+
+
+Regras negativas: 
+
+- Não conter as palavras 'alimentação saudável', ‘alimentos’ e ‘saudável’
+- Não conter palavras em inglês
+
 
